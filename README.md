@@ -1,9 +1,5 @@
-UkeTabs.com Sticky Chords
-===========================
-
-A Google Chrome extension specifically for UkeTabs.com which causes chord charts to hover at the top of the browser window while scrolling the page.
-
 # ![image](https://raw.github.com/tleish/UkeTabs.com-Sticky-Chords/master/icons/icon48.png) UkeTabs.com Sticky Chords
+A Google Chrome extension specifically for UkeTabs.com which causes chord charts to hover at the top of the browser window while scrolling the page.
 
 ## Installation
 
