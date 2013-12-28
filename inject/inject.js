@@ -1,14 +1,9 @@
-//jQuery(".floating-chords").remove();
-//$(window).unbind('scroll');
-
 (function( $ ) {
 
-  var uketabs = (function () {
+  var ukutabs_sticky_chords = (function () {
     var $area_for_scroll;
     var $chord_div;
     var $floating_chord_div;
-//    var is_floating = false;
-
 
     var init = function(){
       $area_for_scroll = $("#area_for_scroll");
@@ -18,7 +13,7 @@
     }
 
     var create_floating_div = function(){
-      $floating_chord_div =  $chord_div.clone();
+      $floating_chord_div = $chord_div.clone();
       $floating_chord_div.addClass("sticky-chords");
       $area_for_scroll.append($floating_chord_div);
     }
@@ -57,10 +52,8 @@
     };
   })();
 
-  console.log("uke tabs init");
-  uketabs.init();
+  $( document ).ready(function() {
+    ukutabs_sticky_chords.init();
+  });
 
 })( jQuery );
-
-
-console.log("uke tabs loaded");
