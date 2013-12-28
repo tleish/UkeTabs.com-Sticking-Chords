@@ -6,9 +6,8 @@ A Google Chrome extension specifically for UkuTabs.com. For ukulele beginners wh
 ## About UkuTabs.com
 [UkuTabs.com](http://ukutabs.com/) is one of the top sites for ukulele tabs and chords, ukulele tips and guides,... Ukulele players all over the world get direct and free access to the archive.
 
-## Installation
-
-1. Download and install from [Google Chrome Webstore](https://chrome.google.com/webstore/detail/ukutabscom-sticky-chords/bfkgkiglnjnhebiddgondjlcbmjdhfcg).
+## Discontinued
+Uketabs liked the feature, and asked to include it as part of their website by default.  Removing as Chrome plugin no longer needed.
 
 ## License
 
